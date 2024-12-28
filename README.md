@@ -11,3 +11,5 @@ Reated by yours truely Tonye Waribo
 - email: waribosamuel@gmail.com
 - phone: +2348066906845
 - jobs: Available for full time mobile developer role [Flutter]
+- this is an open source project and free to be used by anyone
+
