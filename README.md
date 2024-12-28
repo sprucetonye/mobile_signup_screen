@@ -13,3 +13,7 @@ Reated by yours truely Tonye Waribo
 - jobs: Available for full time mobile developer role [Flutter]
 - this is an open source project and free to be used by anyone
 
+![Alt text](./assests/images/screenshoot.png?raw=true "Title")
+![A Screen Shoot of the UI](./assests/images/screenshoot.png?raw=true)
+
+<img src="./assests/images/screenshoot.png" width="500" alt="Logo">
